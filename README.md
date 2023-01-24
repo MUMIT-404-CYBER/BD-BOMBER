@@ -8,7 +8,7 @@
 
 * `pkg install git`
 
-
+t
 
 * `rm -rf BD-BOMBER`
 
