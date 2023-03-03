@@ -32,5 +32,5 @@ ___This Tool is Free Enjoy Dear User.___</br>
 ## SCREENSHOT :
 <br>
 <p align="center">
-<img src="__scr__/bmb.jpg"/>
+<img src="__scr__/bd-bomber.png"/>
 </p>
